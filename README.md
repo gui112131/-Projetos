@@ -1,2 +1,2 @@
 #  Projetos
-Projetos que eu fiz durante a ETEC
+Projetos que eu fiz durante a ETEC.
